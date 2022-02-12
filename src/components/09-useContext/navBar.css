@@ -1,0 +1,9 @@
+.link-items{
+  text-decoration: none;
+  padding-right: .5rem;
+  color: rgb(139, 139, 139);
+}
+
+.link-items:visited{
+  color: rgb(139, 139, 139);
+}
